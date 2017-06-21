@@ -1,11 +1,18 @@
 # -*- coding: utf-8 -*-
 
-import telnetlib, time
+import telnetlib
+import re
 
 
-from robot.utils import timestr_to_secs
-from robot.utils import secs_to_timestr
+#from robot.utils import timestr_to_secs
+#from robot.utils import secs_to_timestr
 
+def timestr_to_secs(str):
+    a = re.match(r'(\d+).*',str)
+    return float(a.group(1))
+
+def secs_to_timestr(num):
+    return str(num)+'sec'
 
 class TelnetCommon(telnetlib.Telnet):
 
@@ -96,7 +103,7 @@ if __name__ == '__main__':
     password = 'btstest'
     tn = TelnetCommon(host,23,'>','2')
     tn.login(username,password)
-    print tn.write('ls')
+    print tn.write('pwd')
     tn.close_connection()
 
 

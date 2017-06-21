@@ -1,0 +1,6 @@
+2017-06-20 06:25:34,660INFOstart to get was node
+2017-06-20 06:26:07,051INFOstart to get was node
+2017-06-20 09:18:18,991INFObegin to parse the input excel
+2017-06-20 09:18:19,114INFOparse excel done
+2017-06-20 09:55:36,447INFO/root/jinguasu
+

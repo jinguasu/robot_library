@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-import re
-import types
 from abc import abstractmethod
 from abc import ABCMeta
 

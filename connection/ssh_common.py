@@ -1,6 +1,16 @@
 # -*- coding: utf-8 -*-
-from robot.utils import timestr_to_secs
-from robot.utils import secs_to_timestr
+
+import re
+
+#from robot.utils import timestr_to_secs
+#from robot.utils import secs_to_timestr
+
+def timestr_to_secs(str):
+    a = re.match(r'(\d+).*',str)
+    return float(a.group(1))
+
+def secs_to_timestr(num):
+    return str(num)+'sec'
 
 import time
 import socket

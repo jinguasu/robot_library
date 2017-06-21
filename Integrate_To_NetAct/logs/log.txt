@@ -1,0 +1,126 @@
+2017-06-12 23:19:28,667ERRORasd
+2017-06-12 23:19:28,667CRITICALsdfkkk
+2017-06-12 23:19:28,667INFOdsfsdf
+2017-06-13 09:52:38,423ERRORasd
+2017-06-13 09:52:38,438CRITICALsdfkkk
+2017-06-13 09:52:38,438INFOdsfsdf
+2017-06-13 13:20:22,482INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 13:20:22,813INFOfinish parsing input excel, will integrate 500 MRBTSs
+2017-06-13 13:59:48,519INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 13:59:48,582INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:01:11,530INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:01:11,582INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:02:06,384INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:02:06,461INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:02:39,342INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:02:39,404INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:13:17,796INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:13:17,858INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:13:45,911INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:13:45,973INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:15:57,242INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:15:57,303INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:16:07,382INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:16:07,493INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:19:20,868INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:19:20,900INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:19:20,900INFOBegin to generate configurations files.
+2017-06-13 14:22:36,405INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:22:36,437INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:22:36,437INFOBegin to generate configurations files.
+2017-06-13 14:23:05,316INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:23:05,348INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:23:05,348INFOBegin to generate configurations files.
+2017-06-13 14:23:05,410INFOFinished generating configuration file templates/sprintlab339vm20_template.xml, will run on WAS node sprintlab339vm20
+2017-06-13 14:23:05,426INFOFinished generating configuration file templates/sprintlab339vm21_template.xml, will run on WAS node sprintlab339vm21
+2017-06-13 14:23:05,426INFOFinished generating configuration file templates/sprintlab339vm22_template.xml, will run on WAS node sprintlab339vm22
+2017-06-13 14:23:05,426INFOFinished generating configuration file templates/sprintlab339vm23_template.xml, will run on WAS node sprintlab339vm23
+2017-06-13 14:23:05,440INFOFinished generating configuration file templates/sprintlab339vm24_template.xml, will run on WAS node sprintlab339vm24
+2017-06-13 14:23:05,440INFOFinished generating configuration file templates/sprintlab339vm25_template.xml, will run on WAS node sprintlab339vm25
+2017-06-13 14:23:05,440INFOFinished generating configuration file templates/sprintlab339vm26_template.xml, will run on WAS node sprintlab339vm26
+2017-06-13 14:23:05,457INFOFinished generating configuration file templates/sprintlab339vm27_template.xml, will run on WAS node sprintlab339vm27
+2017-06-13 14:25:56,716INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:25:56,746INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:25:56,746INFOBegin to generate configurations files.
+2017-06-13 14:25:56,746INFOFinished generating configuration file templates/sprintlab339vm20_template.xml, will run on WAS node sprintlab339vm20
+2017-06-13 14:25:56,746INFOFinished generating configuration file templates/sprintlab339vm21_template.xml, will run on WAS node sprintlab339vm21
+2017-06-13 14:25:56,763INFOFinished generating configuration file templates/sprintlab339vm22_template.xml, will run on WAS node sprintlab339vm22
+2017-06-13 14:25:56,763INFOFinished generating configuration file templates/sprintlab339vm23_template.xml, will run on WAS node sprintlab339vm23
+2017-06-13 14:25:56,763INFOFinished generating configuration file templates/sprintlab339vm24_template.xml, will run on WAS node sprintlab339vm24
+2017-06-13 14:25:56,763INFOFinished generating configuration file templates/sprintlab339vm25_template.xml, will run on WAS node sprintlab339vm25
+2017-06-13 14:25:56,763INFOFinished generating configuration file templates/sprintlab339vm26_template.xml, will run on WAS node sprintlab339vm26
+2017-06-13 14:25:56,763INFOFinished generating configuration file templates/sprintlab339vm27_template.xml, will run on WAS node sprintlab339vm27
+2017-06-13 14:26:16,278INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:26:16,309INFOfinish parsing input excel, will integrate 10 MRBTSs
+2017-06-13 14:26:16,309INFOBegin to generate configurations files.
+2017-06-13 14:26:16,309INFOFinished generating configuration file templates/sprintlab339vm20_template.xml, will run on WAS node sprintlab339vm20
+2017-06-13 14:26:16,309INFOFinished generating configuration file templates/sprintlab339vm21_template.xml, will run on WAS node sprintlab339vm21
+2017-06-13 14:26:16,309INFOFinished generating configuration file templates/sprintlab339vm22_template.xml, will run on WAS node sprintlab339vm22
+2017-06-13 14:26:16,309INFOFinished generating configuration file templates/sprintlab339vm23_template.xml, will run on WAS node sprintlab339vm23
+2017-06-13 14:26:16,325INFOFinished generating configuration file templates/sprintlab339vm24_template.xml, will run on WAS node sprintlab339vm24
+2017-06-13 14:26:16,325INFOFinished generating configuration file templates/sprintlab339vm25_template.xml, will run on WAS node sprintlab339vm25
+2017-06-13 14:26:16,325INFOFinished generating configuration file templates/sprintlab339vm26_template.xml, will run on WAS node sprintlab339vm26
+2017-06-13 14:26:16,325INFOFinished generating configuration file templates/sprintlab339vm27_template.xml, will run on WAS node sprintlab339vm27
+2017-06-13 14:28:36,308INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:28:36,338INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 14:28:36,338INFOBegin to generate configurations files.
+2017-06-13 14:28:36,355INFOFinished generating configuration file templates/sprintlab339vm20_template.xml, will run on WAS node sprintlab339vm20
+2017-06-13 14:28:36,355INFOFinished generating configuration file templates/sprintlab339vm21_template.xml, will run on WAS node sprintlab339vm21
+2017-06-13 14:28:36,355INFOFinished generating configuration file templates/sprintlab339vm22_template.xml, will run on WAS node sprintlab339vm22
+2017-06-13 14:28:36,369INFOFinished generating configuration file templates/sprintlab339vm23_template.xml, will run on WAS node sprintlab339vm23
+2017-06-13 14:28:36,433INFOFinished generating configuration file templates/sprintlab339vm24_template.xml, will run on WAS node sprintlab339vm24
+2017-06-13 14:28:36,433INFOFinished generating configuration file templates/sprintlab339vm25_template.xml, will run on WAS node sprintlab339vm25
+2017-06-13 14:28:36,447INFOFinished generating configuration file templates/sprintlab339vm26_template.xml, will run on WAS node sprintlab339vm26
+2017-06-13 14:28:36,447INFOFinished generating configuration file templates/sprintlab339vm27_template.xml, will run on WAS node sprintlab339vm27
+2017-06-13 14:33:24,438INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 14:33:24,486INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 14:33:24,502INFOBegin to generate configurations files.
+2017-06-13 14:33:24,502INFOFinished generating configuration file templates/sprintlab339vm20_template.xml, will run on WAS node sprintlab339vm20
+2017-06-13 14:33:24,502INFOFinished generating configuration file templates/sprintlab339vm21_template.xml, will run on WAS node sprintlab339vm21
+2017-06-13 14:33:24,516INFOFinished generating configuration file templates/sprintlab339vm22_template.xml, will run on WAS node sprintlab339vm22
+2017-06-13 14:33:24,516INFOFinished generating configuration file templates/sprintlab339vm23_template.xml, will run on WAS node sprintlab339vm23
+2017-06-13 14:33:24,516INFOFinished generating configuration file templates/sprintlab339vm24_template.xml, will run on WAS node sprintlab339vm24
+2017-06-13 14:33:24,516INFOFinished generating configuration file templates/sprintlab339vm25_template.xml, will run on WAS node sprintlab339vm25
+2017-06-13 14:33:24,532INFOFinished generating configuration file templates/sprintlab339vm26_template.xml, will run on WAS node sprintlab339vm26
+2017-06-13 14:33:24,532INFOFinished generating configuration file templates/sprintlab339vm27_template.xml, will run on WAS node sprintlab339vm27
+2017-06-13 15:26:15,009INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 15:26:15,197INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 15:26:15,227INFOBegin to generate configurations files.
+2017-06-13 15:26:40,319INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 15:26:40,365INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 15:26:40,365INFOBegin to generate configurations files.
+2017-06-13 15:26:54,885INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 15:26:54,917INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 15:26:54,917INFOBegin to generate configurations files.
+2017-06-13 15:30:15,584INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 15:30:15,615INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 15:32:01,821INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 15:32:01,868INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 15:32:01,868INFOBegin to generate configurations files.
+2017-06-13 16:51:18,934INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-13 16:51:19,168INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-13 16:51:19,168INFObegin to generate configuration file
+2017-06-13 16:51:19,230INFOfinish generate confiuration file templates/sprintlab339vm20_template.xml, will run on node sprintlab339vm20
+2017-06-13 16:51:19,246INFOfinish generate confiuration file templates/sprintlab339vm21_template.xml, will run on node sprintlab339vm21
+2017-06-13 16:51:19,263INFOfinish generate confiuration file templates/sprintlab339vm22_template.xml, will run on node sprintlab339vm22
+2017-06-13 16:51:19,278INFOfinish generate confiuration file templates/sprintlab339vm23_template.xml, will run on node sprintlab339vm23
+2017-06-13 16:51:19,278INFOfinish generate confiuration file templates/sprintlab339vm24_template.xml, will run on node sprintlab339vm24
+2017-06-13 16:51:19,278INFOfinish generate confiuration file templates/sprintlab339vm25_template.xml, will run on node sprintlab339vm25
+2017-06-13 16:51:19,293INFOfinish generate confiuration file templates/sprintlab339vm26_template.xml, will run on node sprintlab339vm26
+2017-06-13 16:51:19,293INFOfinish generate confiuration file templates/sprintlab339vm27_template.xml, will run on node sprintlab339vm27
+2017-06-13 18:44:13,717INFObegin to integrate MRBTS with input:'1.xlsx'
+2017-06-13 18:44:55,969INFObegin to integrate MRBTS with input:'1.xlsx'
+2017-06-13 18:46:26,928INFObegin to integrate MRBTS with input:'1.xlsx'
+2017-06-19 16:13:58,612INFObegin to integrate MRBTS on WAS nodenode
+2017-06-19 16:13:58,660INFOcopy template file /var/tmp\t.txt to node node
+2017-06-19 16:14:13,026INFObegin to parse input fileMRBTS_conf_1-500.xlsx
+2017-06-19 16:14:13,213INFOfinish parsing input excel, will integrate 100 MRBTSs
+2017-06-19 16:14:13,213INFObegin to generate configuration file
+2017-06-19 16:14:13,230INFOfinish generate confiuration file templates/sprintlab339vm20_template.xml, will run on node sprintlab339vm20
+2017-06-19 16:14:13,230INFOfinish generate confiuration file templates/sprintlab339vm21_template.xml, will run on node sprintlab339vm21
+2017-06-19 16:14:13,244INFOfinish generate confiuration file templates/sprintlab339vm22_template.xml, will run on node sprintlab339vm22
+2017-06-19 16:14:13,260INFOfinish generate confiuration file templates/sprintlab339vm23_template.xml, will run on node sprintlab339vm23
+2017-06-19 16:14:13,276INFOfinish generate confiuration file templates/sprintlab339vm24_template.xml, will run on node sprintlab339vm24
+2017-06-19 16:14:13,276INFOfinish generate confiuration file templates/sprintlab339vm25_template.xml, will run on node sprintlab339vm25
+2017-06-19 16:14:13,276INFOfinish generate confiuration file templates/sprintlab339vm26_template.xml, will run on node sprintlab339vm26
+2017-06-19 16:14:13,292INFOfinish generate confiuration file templates/sprintlab339vm27_template.xml, will run on node sprintlab339vm27
