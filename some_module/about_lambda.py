@@ -32,3 +32,6 @@ def prod(l):
 
 print prod([1,2,3,4,5])
 
+print reduce(lambda x,y:x+y,[1,2,3,4])   #  reduce函数，对于后面的数据列表，采用第一二个元素进行操作后，按照函数一次对后面的数据进行操作
+
+print filter(lambda x:x>20,[1,34,56])
